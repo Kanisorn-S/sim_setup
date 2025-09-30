@@ -21,5 +21,6 @@
     <build_type>ament_cmake</build_type>
     <!-- TO CHANGE -->
     <gazebo_ros gazebo_model_path="/home/kong/sim_setup/install/sim_setup/share/"/>
+    <gazebo_ros gazebo_model_path="/home/kong/sim_setup/install/robotiq_description/share/"/>
   </export>
 </package>
